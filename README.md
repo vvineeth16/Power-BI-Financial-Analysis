@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/c74550d0-3b6e-4739-847b-a11ad1771450
+
 # Power-BI-Financial-Analysis
 
 📊 Unlocking Financial Insights with Power BI 📈
