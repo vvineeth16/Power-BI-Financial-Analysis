@@ -10,6 +10,6 @@ Trends in profitability by product line
 Impact of discount strategies on overall sales
 Check out the dashboard and let us know your thoughts!
 
-https://github.com/user-attachments/assets/c45c068b-99d2-486d-878c-ad01859bbb36
+
 
 
